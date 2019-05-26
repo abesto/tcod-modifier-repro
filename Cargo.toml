@@ -1,0 +1,8 @@
+[package]
+name = "tcod-modifier-repro"
+version = "0.1.0"
+authors = ["Zoltán Nagy <abesto@abesto.net>"]
+edition = "2018"
+
+[dependencies]
+tcod = "0.14.0"
